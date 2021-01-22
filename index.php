@@ -18,14 +18,14 @@ while($nombre0 <= 20){
     $nombre0++;
 }
 
-//Exercice 3
+/*//Exercice 3
 $nombre100 = 100;
 $nombre13 = 13;
 while($nombre100 > 10){
     $nombre100 *= $nombre13;
     echo $nombre100. "<br>";
     $nombre100--;
-}
+}*/
 
 //Exercice 4
 $nombreUn = 1;
