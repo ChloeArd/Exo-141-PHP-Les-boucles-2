@@ -27,29 +27,29 @@ while($nombre100 > 10){
     $nombre100--;
 }*/
 
-//Exercice 4
+/*//Exercice 4
 $nombreUn = 1;
 while($nombreUn < 10){
     echo $nombreUn. "<br>";
     $nombre100 += 0.5;
-}
+}*/
 
 //Exercice 5
 for($i = 1; $i <= 15; $i++){
-    echo "On y arrive presque.";
+    echo "On y arrive presque.<br>";
 }
 
 //Exercice 6
 for($i = 20; $i >= 0; $i--){
-    echo "C'est presque bon.";
+    echo "C'est presque bon.<br>";
 }
 
 //Exercice 7
 for($i = 1; $i <= 100; $i += 15){
-    echo "On tient le bon bout.";
+    echo "On tient le bon bout.<br>";
 }
 
 //Exercice 8
 for($i = 200; $i >= 0; $i -= 12){
-    echo "Enfin !!!!";
+    echo "Enfin !!!!<br>";
 }
