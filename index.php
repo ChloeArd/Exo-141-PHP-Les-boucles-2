@@ -38,3 +38,18 @@ while($nombreUn < 10){
 for($i = 1; $i <= 15; $i++){
     echo "On y arrive presque.";
 }
+
+//Exercice 6
+for($i = 20; $i >= 0; $i--){
+    echo "C'est presque bon.";
+}
+
+//Exercice 7
+for($i = 1; $i <= 100; $i += 15){
+    echo "On tient le bon bout.";
+}
+
+//Exercice 8
+for($i = 200; $i >= 0; $i -= 12){
+    echo "Enfin !!!!";
+}
